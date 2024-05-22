@@ -78,3 +78,29 @@
   border-left: 20px solid rgba(0,0,0,0);
   border-right: 20px solid rgba(0,0,0,0);
 }
+
+.bold {
+  font-weight: bold;
+}
+
+.active-link {
+  font-weight: bold;
+}
+
+.ket-calon {
+  color: rgba(0,0,0,1);
+  font-family: Nunito;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+
+.teks {
+  color: rgba(0,0,0,1);
+  font-family: Nunito;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
