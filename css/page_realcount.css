@@ -1,3 +1,11 @@
+.title-parpol {
+  color: rgba(0,0,0,1);
+  font-family: Nunito;
+  font-weight: Bold;
+  opacity: 1;
+  font-size: 20px;
+}
+
 .c_page-real-count-frame {
     width: 100%;
     overflow: hidden;

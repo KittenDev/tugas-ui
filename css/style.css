@@ -769,7 +769,7 @@ h6 {
 .section-heading h3 {
     font-size: 14px;
     font-weight: bold;
-    color: #ccc;
+    color: #6c757d;
     letter-spacing: 2px;
     padding-bottom: 0;
 }
@@ -1455,8 +1455,10 @@ blockquote {
 }
 
 .pricing-sub {
+    font-family: Nunito;
     font-style: italic;
-    color:#ccc;
+    font-size: 15px;
+    color: #6c757d;
     margin:0 0 25px 0;
 }
 
@@ -1483,6 +1485,7 @@ blockquote {
 }
 
 .pricing  p {
+    font-family: Nunito;
     font-style:italic;
     color:#b4b4b4;
     line-height:auto;
@@ -2070,6 +2073,27 @@ blockquote {
         transform: translate(220%, 220%);
     }
 }
+
+/*------------------------------------------------------------------------------------------*/
+/* Carousel */
+/*------------------------------------------------------------------------------------------*/
+.carousel-item {
+    padding: 20px;
+  }
+  .card {
+    text-align: center;
+    border: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .card img {
+    height: 100px;
+    object-fit: contain;
+  }
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: #000;
+    border-radius: 50%;
+  }
 
 /*------------------------------------------------------------------------------------------*/
 /* Responsive Elements */
