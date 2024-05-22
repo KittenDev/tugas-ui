@@ -87,3 +87,7 @@
   max-height: 300px;
 }
 
+.card-img-top.img-border {
+  width: 500px;
+  height: 500px;
+}
