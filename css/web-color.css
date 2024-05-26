@@ -108,11 +108,14 @@ a:hover, #header.nav-solid nav a:hover {
 .section-heading h2:after {
     background:#d2b356;
     content:"";
-    display:block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width:30px;
     height:5px;
-    margin-top:30px;
+    margin-top:15px;
 }
+
 
 .text-center .section-heading h2:after {
     margin:30px auto 25px auto;
@@ -279,7 +282,7 @@ h6 {
 /* Button Text */
 
 .button, input[type="submit"]  {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Nunito;
     font-size:14px;
     font-weight:bold;
     color:#111;
@@ -288,9 +291,9 @@ h6 {
 
 /* Button Color */
 
-.button, input[type="submit"] {
+/* .button, input[type="submit"] {
     border-color:#111;
-}
+} */
 
 
 /* Button Hover Color */

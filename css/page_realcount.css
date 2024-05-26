@@ -6,267 +6,16 @@
   font-size: 20px;
 }
 
-.c_page-real-count-frame {
-    width: 100%;
-    overflow: hidden;
-    max-width: 1440px;
-    box-sizing: border-box;
-    align-items: flex-start;
-    flex-direction: column;
-    justify-content: flex-start;
-    background-color: #fff;
-  }
-  
-  .c_page-real-count-instance {
-    width: 100%;
-    max-width: 100px;
-    box-sizing: border-box;
-  }
-  
-  .c_page-real-count-rectangle {
-    width: 100%;
-    height: auto;
-    margin: 0;
-    display: block;
-    max-width: 100px;
-  }
-  
-  .c_page-real-count-text {
-    width: 100%;
-    max-width: auto;
-    margin-top: 0;
-    min-height: auto;
-    text-align: center;
-    margin-bottom: 0;
-  }
-  
-  .c_page-real-count-text01,
-  .c_page-real-count-text02 {
-    color: #000;
-    font-size: 64px;
-    font-style: normal;
-    margin-top: 0;
-    text-align: center;
-    font-family: "Nunito",sans-serif;
-    font-weight: 700;
-    line-height: normal;
-    margin-bottom: .699999988079071px;
-    letter-spacing: 0;
-    text-transform: none;
-  }
-  
-  .c_page-real-count-text02 {
-    margin-bottom: 0;
-  }
-  
-  .c_page-real-count-text03 {
-    width: 100%;
-    max-width: auto;
-    margin-top: 0;
-    min-height: auto;
-    text-align: left;
-    margin-bottom: 0;
-  }
-  
-  .c_page-real-count-text04 {
-    color: #000;
-    font-size: 48px;
-    font-style: normal;
-    margin-top: 0;
-    text-align: left;
-    font-family: "Nunito",sans-serif;
-    font-weight: 800;
-    line-height: normal;
-    margin-bottom: 0;
-    letter-spacing: 0;
-    text-transform: none;
-  }
-  
-  .c_page-real-count-text05 {
-    width: 100%;
-    max-width: auto;
-    margin-top: 0;
-    min-height: auto;
-    text-align: left;
-    margin-bottom: 0;
-  }
-  
-  .c_page-real-count-text06 {
-    color: #000;
-    font-size: 32px;
-    font-style: normal;
-    margin-top: 0;
-    text-align: left;
-    font-family: "Nunito",sans-serif;
-    font-weight: 700;
-    line-height: normal;
-    margin-bottom: 0;
-    letter-spacing: 0;
-    text-transform: none;
-  }
-  
-  .c_page-real-count-text07 {
-    width: 100%;
-    max-width: 296px;
-    margin-top: 0;
-    min-height: 44px;
-    text-align: center;
-    margin-bottom: 0;
-  }
-  
-  .c_page-real-count-text08 {
-    color: #000;
-    font-size: 36px;
-    font-style: normal;
-    margin-top: 0;
-    text-align: center;
-    font-family: "Nunito",sans-serif;
-    font-weight: 700;
-    line-height: normal;
-    margin-bottom: 0;
-    letter-spacing: 0;
-    text-transform: none;
-  }
-  
-  .c_page-real-count-frame1,
-  .c_page-real-count-frame2 {
-    gap: 57px;
-    width: 100%;
+  .rectangle {
     display: flex;
-    position: relative;
-    max-width: 1356px;
-    box-sizing: border-box;
-    align-items: flex-end;
-    justify-content: flex-start;
-  }
-  
-  .c_page-real-count-frame2 {
-    gap: 47px;
-    padding: 50px 14px;
-    max-width: 1332px;
-    border-top: 12px solid #d9d9d9;
-    box-shadow: 0 4px 4px 0 rgba(0,0,0,.25),0 4px 4px 0 rgba(0,0,0,.25),0 4px 4px 0 rgba(0,0,0,.25);
-    align-items: flex-start;
-    border-left: 12px solid #d9d9d9;
-    border-right: 12px solid #d9d9d9;
-    border-bottom: 12px solid #d9d9d9;
-    border-radius: 30px 30px 30px 30px;
-    background-color: #fff;
-  }
-  
-  .c_page-real-count-instance1 {
-    width: 100%;
-    max-width: 30px;
-    box-sizing: border-box;
-  }
-  
-  .c_page-real-count-rectangle1 {
-    width: 100%;
-    height: auto;
-    margin: 0;
-    display: block;
-    max-width: 30px;
-  }
-  
-  .c_page-real-count-instance2 {
-    width: 100%;
-    max-width: 180px;
-    box-sizing: border-box;
-    align-items: flex-start;
-    flex-direction: column;
-    justify-content: flex-start;
-  }
-  
-  .c_page-real-count-text09 {
-    width: 100%;
-    max-width: auto;
-    margin-top: 0;
-    min-height: auto;
-    text-align: left;
-    margin-bottom: 0;
-  }
-  
-  .c_page-real-count-text10 {
-    color: #000;
-    font-size: 40px;
-    font-style: normal;
-    margin-top: 0;
-    text-align: left;
-    font-family: "Nunito",sans-serif;
-    font-weight: 800;
-    line-height: normal;
-    margin-bottom: 0;
-    letter-spacing: 0;
-    text-transform: none;
-  }
-  
-  .c_page-real-count-text11 {
-    width: 100%;
-    max-width: auto;
-    margin-top: 0;
-    min-height: auto;
-    text-align: left;
-    margin-bottom: 0;
-  }
-  
-  .c_page-real-count-text12 {
-    color: #000;
-    font-size: 40px;
-    font-style: normal;
-    margin-top: 0;
-    text-align: left;
-    font-family: "Nunito",sans-serif;
-    font-weight: 800;
-    line-height: normal;
-    margin-bottom: 0;
-    letter-spacing: 0;
-    text-transform: none;
-  }
-  
-  .c_page-real-count-text13 {
-    width: 100%;
-    max-width: auto;
-    margin-top: 0;
-    min-height: auto;
-    text-align: left;
-    margin-bottom: 0;
-  }
-  
-  .c_page-real-count-text14 {
-    color: #000;
-    font-size: 40px;
-    font-style: normal;
-    margin-top: 0;
-    text-align: left;
-    font-family: "Nunito",sans-serif;
-    font-weight: 800;
-    line-height: normal;
-    margin-bottom: 0;
-    letter-spacing: 0;
-    text-transform: none;
-  }
-  
-  .c_page-real-count-text15 {
-    width: 100%;
-    max-width: auto;
-    margin-top: 0;
-    min-height: auto;
-    text-align: left;
-    margin-bottom: 0;
-  }
-  
-  .c_page-real-count-text16 {
-    color: #000;
-    font-size: 40px;
-    font-style: normal;
-    margin-top: 0;
-    text-align: left;
-    font-family: "Nunito",sans-serif;
-    font-weight: 800;
-    line-height: normal;
-    margin-bottom: 0;
-    letter-spacing: 0;
-    text-transform: none;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
   .carousel-inner {
@@ -285,4 +34,59 @@
     font-family: 'Nunito', sans-serif;
     margin: 0;
     padding: 0;
+  }
+
+  .simple-bar-chart{
+    --line-count: 10;
+    --line-color: currentcolor;
+    --line-opacity: 0.25;
+    --item-gap: 2%;
+    --item-default-color: #060606;
+    
+    height: 10rem;
+    display: grid;
+    grid-auto-flow: column;
+    gap: var(--item-gap);
+    align-items: end;
+    padding-inline: var(--item-gap);
+    --padding-block: 1.5rem; /*space for labels*/
+    padding-block: var(--padding-block);
+    position: relative;
+    isolation: isolate;
+    padding: 10px;
+  }
+  
+  .simple-bar-chart::after{
+    content: "";
+    position: absolute;
+    inset: var(--padding-block) 0;
+    z-index: -1;
+    --line-width: 1px;
+    --line-spacing: calc(100% / var(--line-count));
+    background-image: repeating-linear-gradient(to top, transparent 0 calc(var(--line-spacing) - var(--line-width)), var(--line-color) 0 var(--line-spacing));
+    box-shadow: 0 var(--line-width) 0 var(--line-color);
+    opacity: var(--line-opacity);
+  }
+
+  .simple-bar-chart > .item{
+    height: calc(1% * var(--val));
+    background-color: var(--clr, var(--item-default-color));
+    position: relative;
+    animation: item-height 1s ease forwards
+  }
+  @keyframes item-height { from { height: 0 } }
+  
+  .simple-bar-chart > .item > * { position: absolute; text-align: center }
+  .simple-bar-chart > .item > .label { inset: 100% 0 auto 0 }
+  .simple-bar-chart > .item > .value { inset: auto 0 100% 0 }
+  
+  .label {
+    color: rgba(0,0,0,1);
+    font-family: Nunito;
+    margin-top: 5px;
+  }
+
+  .value {
+    color: rgba(0,0,0,1);
+    font-family: Nunito;
   }
