@@ -43,6 +43,7 @@ a:hover, #header.nav-solid nav a:hover {
 
 .judul{
     font-size: 50px;
+    font-family: Nunito;
 }
 
 .sudah{
@@ -183,7 +184,7 @@ body {
 /* Banner Typography */
 
 #banner h1 {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Nunito;
     font-size:62px;
     line-height:60px;
     font-weight:800;
@@ -191,7 +192,7 @@ body {
 }
 
 #banner h2 {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Nunito;
     font-size:18px;
     font-weight:300;
     color:#111;
@@ -201,14 +202,14 @@ body {
 /* Section Title and Subtitle */
 
 .section-title {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Nunito;
     font-size: 34px; 
     font-weight:700;
     color:#111;
 }
 
 .section-subtitle {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Nunito;
     font-size: 16px;
     font-weight:300;
     color:#9c9c9c;
@@ -217,7 +218,7 @@ body {
 /* Testimonial */
 
 .testimonial q {
-    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-family: Nunito;
     font-size: 17px; 
     font-weight:300;
 }
