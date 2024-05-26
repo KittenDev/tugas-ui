@@ -268,3 +268,21 @@
     letter-spacing: 0;
     text-transform: none;
   }
+
+  .carousel-inner {
+    border: 5px solid gray;
+    border-radius: 15px;
+    padding: 10px; /* Add padding to inner carousel */
+  }
+
+  .carousel-item {
+    margin: 0 3px; /* Add margin to carousel items */
+    padding: 2px;
+  }
+
+  .counting-down {
+    max-width: 600px;
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
