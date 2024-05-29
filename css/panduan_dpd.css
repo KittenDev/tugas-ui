@@ -109,3 +109,15 @@ span {
   max-height: 100%;
   margin-left: 10px;
 }
+
+h1.tittle {
+  margin-top: -50px;
+}
+
+h2.tittle {
+  margin-top: 20px;
+}
+
+.checkmark-image {
+    margin-top: 15px; 
+}
