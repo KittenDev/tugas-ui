@@ -1,0 +1,111 @@
+.title-panduan {
+    color: rgba(0, 0, 0, 1);
+    font-family: Nunito;
+    font-weight: Bold;
+    opacity: 1;
+    font-size: 64px;
+  }
+  
+  .custom-title {
+    margin: auto;   
+    margin-left: 75px;
+    font-size: 64px;
+  }
+  
+  .card {
+    background-color: #cf3130;
+    border: 4px solid #cf3130;
+    width: 380px; 
+    border-radius: 50px;
+    overflow: hidden; 
+  }
+  
+  .card .card-title,
+  .card .card-body,
+  .card .card-subtitle,
+  .card .card-link {
+    background-color: #cf3130;
+  }
+  
+  .nama-panduan {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  .subtitle-panduan {
+    color: rgba(0, 0, 0, 1);
+    font-family: Nunito;
+    opacity: 1;
+    font-size: 24px;
+  }
+  
+  .card-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+}
+
+.card-img-top {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.more-info {
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+.card-img-top.img-border {
+  width: 350px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+}
+
+.btn-circle {
+  width: 50px; 
+  height: 50px; 
+  padding: 0; 
+  border-radius: 25px; 
+  text-align: center;
+  font-size: 24px;
+  line-height: 50px; 
+  background-color: black; 
+  color: white; 
+}
+
+.tittle {
+  margin-right: 20px;
+  font-family: Nunito;
+  font-weight: bold;
+}
+
+.card-text {
+  font-family: Nunito; 
+  font-size: 32px;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 1);
+  margin-top: 30px; 
+  margin-bottom: 200px !important;
+  text-align: center;
+  line-height: 1.5;
+  padding: 10px;
+}
+
+.text-size-image {
+  width: 3em;
+  height: 3em;
+}
+
+span {
+  display: flex;
+  align-items: center;
+}
+
+.custom-title-image {
+  height: 5em; 
+  width: 5em; 
+  max-height: 100%; 
+  margin-left: 10px; 
+}
