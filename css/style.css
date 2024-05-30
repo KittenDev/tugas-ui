@@ -2352,6 +2352,10 @@ blockquote {
 
 }
 
-
+.imagefooter {
+    width: auto;
+    height: 4rem;
+    margin-bottom: 2rem;
+}
 
 
